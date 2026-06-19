@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B2F1D&height=240&section=header&text=JUAN%20CARREÑO&fontSize=75&fontColor=facc15&fontAlignY=40&desc=Asistente%20de%20Soporte%20de%20TI%20%20%7C%20%20Técnico%20en%20Redes%20Inalámbricas%20%20%7C%20%20Backend%20Developer&descSize=18&descColor=ffffff&descAlignY=68" alt="Encabezado Profesional Verde y Amarillo de Juan Carreño" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eab308,100:15803d&height=240&section=header&text=JUAN%20CARREÑO&fontSize=75&fontColor=ffffff&fontAlignY=40&stroke=000000&strokeWidth=1&desc=Asistente%20de%20Soporte%20de%20TI%20%20%7C%20%20Técnico%20en%20Redes%20Inalámbricas%20%20%7C%20%20Backend%20Developer&descSize=18&descColor=ffffff&descAlignY=68" alt="Encabezado Profesional con Degradado Amarillo y Verde" />
 </p>
 
 # 🚀 ¡Hola! Soy Juan Carreño
