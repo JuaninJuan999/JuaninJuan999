@@ -1,7 +1,6 @@
 <p align="center">
-  <a href="https://github.com/JuaninJuan999">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=220&lines=JUAN+CARRE%C3%91O;Asistente+de+Soporte+de+TI+%7C+L%C3%ADder+de+Área;T%C3%A9cnico+en+Redes+Inal%C3%A1mbricas;Laravel+%2B+AI+Web+Developer" alt="Banner Animado de Juan Carreño" style="background: linear-gradient(135deg, #091e3a 0%, #0f3460 50%, #16213e 100%), url('https://i.gifer.com/76Yp.gif'); background-blend-mode: overlay; background-size: cover; border-radius: 8px; padding: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-  </a>
+  <!-- Fondo de Red Tecnológica con tu información real animada -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=38bdf8&center=true&vCenter=true&width=900&height=200&background=0a192f&lines=JUAN+CARRE%C3%91O;Asistente+de+Soporte+de+TI+%7C+L%C3%ADder+de+%C3%81rea;T%C3%A9cnico+en+Redes+Inal%C3%A1mbricas;Laravel+%2B+AI+Web+Developer" alt="Banner Animado de Juan" />
 </p>
 
 # 🚀 ¡Hola! Soy Juan Carreño
@@ -39,8 +38,6 @@ Me especializo en la creación de soluciones colaborativas de gestión y automat
 
 ---
 
----
-
 ## 📊 Estadísticas GitHub
 
 <p align="center">
@@ -62,3 +59,10 @@ Me especializo en la creación de soluciones colaborativas de gestión y automat
 
 *   📍 Floridablanca, Santander, Colombia
 *   💬 [Contáctame directamente por WhatsApp](https://wa.link/unst3c)
+
+---
+
+<p align="center">
+  <!-- Cierre de onda en movimiento compatible al final -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=100&section=footer" alt="Cierre de perfil" />
+</p>
