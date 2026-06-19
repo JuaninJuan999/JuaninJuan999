@@ -15,24 +15,32 @@ Soy desarrollador/a apasionado/a por aprender, crear proyectos útiles y compart
 
 ## 🧰 Tecnologías y herramientas
 
-- Lenguajes: JavaScript, TypeScript, HTML, CSS
-- Frameworks / Librerías: React, Next.js
-- Backend: Node.js, Express
-- Bases de datos: MongoDB, SQLite
+- Lenguajes: JavaScript, TypeScript, HTML, CSS, PHP (Laravel/Blade)
+- Frameworks / Librerías: React, Next.js, Laravel
+- Backend: Node.js, Express, Laravel
+- Bases de datos: MongoDB, PostgreSQL, SQLite
 - Control de versiones: Git & GitHub
 - Otras: Docker, Vercel, Netlify
-
-> Si quieres que añada o ajuste alguna tecnología en esta lista, dime cuáles son tus principales stacks.
 
 ---
 
 ## 💡 Proyectos destacados
 
-- Proyecto-A — Descripción corta del proyecto y qué problema resuelve.
-- Proyecto-B — Pequeña app/demo creada para practicar X.
-- Proyecto-C — Contribución o biblioteca que publiqué.
+1. Liberación de Canales
+   - Descripción: Sistema de liberación de canales en Laravel.
+   - Repositorio: https://github.com/JuaninJuan999/liberacion-canales
+   - Badges: 
+     - ![stars](https://img.shields.io/github/stars/JuaninJuan999/liberacion-canales?style=flat)
+     - ![last-commit](https://img.shields.io/github/last-commit/JuaninJuan999/liberacion-canales?style=flat)
 
-(Recuerda enlazar aquí tus repositorios más importantes. Puedo actualizarlos por ti si me indicas cuáles quieres destacar.)
+2. Control contratista
+   - Descripción: Plataforma para control de contratistas (gestión de solicitudes y flujo de trabajo).
+   - Repositorio: https://github.com/JuaninJuan999/control-contratista
+   - Badges: 
+     - ![stars](https://img.shields.io/github/stars/JuaninJuan999/control-contratista?style=flat)
+     - ![last-commit](https://img.shields.io/github/last-commit/JuaninJuan999/control-contratista?style=flat)
+
+(He destacado los repositorios que pediste. Si prefieres que los muestre con una tarjeta visual o extractos del README de cada proyecto, lo hago.)
 
 ---
 
@@ -46,10 +54,11 @@ Sustituye los enlaces y el correo por tus datos reales. Si prefieres, puedo deja
 
 ---
 
-## 📈 GitHub
+## 📈 Buenas prácticas en mis repos
 
-- Me gusta mantener repositorios limpios, con README que expliquen cómo usar los proyectos y ejemplos fáciles de ejecutar.
-- Aporto a proyectos de código abierto cuando puedo.
+- Procuro mantener README claros con instrucciones de instalación y uso.
+- Añado ejemplos y scripts para facilitar la ejecución local.
+- Intento incluir tests básicos y pipelines (cuando aplica).
 
 ---
 
@@ -60,9 +69,10 @@ Sustituye los enlaces y el correo por tus datos reales. Si prefieres, puedo deja
 
 ---
 
-Si quieres, puedo:
-- Añadir tus repositorios destacados automáticamente.
-- Personalizar el texto con tu foto, links reales, y badges (GitHub Actions, npm, etc.).
-- Traducirlo a otro idioma o ajustarlo a un tono más profesional o informal.
+Si quieres que haga más cambios ahora mismo, por ejemplo:
+- Poner tu email y redes reales.
+- Insertar extractos (resúmenes) automáticos desde los README de los repos destacados.
+- Añadir imágenes, GIFs o una foto de perfil dentro del README.
+- Cambiar el tono a más profesional o más informal.
 
-¡Dime qué prefieres y lo actualizo!
+Dime qué prefieres y lo actualizo.
