@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Fondo de Red Tecnológica con tu información real animada -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=38bdf8&center=true&vCenter=true&width=900&height=200&background=0a192f&lines=JUAN+CARRE%C3%91O;Asistente+de+Soporte+de+TI+%7C+L%C3%ADder+de+%C3%81rea;T%C3%A9cnico+en+Redes+Inal%C3%A1mbricas;Laravel+%2B+AI+Web+Developer" alt="Banner Animado de Juan" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b192f&height=240&section=header&text=JUAN%20CARREÑO&fontSize=75&fontColor=ffffff&fontAlignY=40&desc=Asistente%20de%20Soporte%20de%20TI%20%20%7C%20%20Técnico%20en%20Redes%20Inalámbricas%20%20%7C%20%20Backend%20Developer&descSize=18&descColor=38bdf8&descAlignY=68" alt="Encabezado Profesional de Juan Carreño" />
 </p>
 
 # 🚀 ¡Hola! Soy Juan Carreño
