@@ -33,6 +33,25 @@ Me especializo en la creación de soluciones colaborativas de gestión y automat
 
 ---
 
+---
+
+## 📊 Estadísticas GitHub
+
+<p align="center">
+  <!-- Tarjeta de Estadísticas Generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JuaninJuan999&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub de JuaninJuan999" height="190" />
+  
+  <!-- Tarjeta de Lenguajes Más Usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaninJuan999&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados de JuaninJuan999" height="190" />
+</p>
+
+<p align="center">
+  <!-- Tarjeta de Rachas (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuaninJuan999&theme=tokyonight" alt="Racha de contribuciones de JuaninJuan999" />
+</p>
+
+---
+
 ### 🤝 Contacto y Conectividad
 
 *   📍 Floridablanca, Santander, Colombia
