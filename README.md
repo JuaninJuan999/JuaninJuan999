@@ -1,6 +1,6 @@
 # 🚀 ¡Hola! Soy Juan Carreño
 
-An apasionado **Técnico en Instalación y Mantenimiento de Redes Inalámbricas** y **Desarrollador Web Backend** enfocado en optimizar procesos mediante la tecnología. Actualmente me desempeño como **Asistente de Soporte de TI**, liderando la asignación de tareas técnicas y el desarrollo de herramientas internas.
+Un apasionado **Técnico en Instalación y Mantenimiento de Redes Inalámbricas** y **Desarrollador Web Backend** enfocado en optimizar procesos mediante la tecnología. Actualmente me desempeño como **Asistente de Soporte de TI**, liderando la asignación de tareas técnicas y el desarrollo de herramientas internas.
 
 Me especializo en la creación de soluciones colaborativas de gestión y automatización de procesos utilizando arquitectura moderna respaldada por Inteligencia Artificial.
 
