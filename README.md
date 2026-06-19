@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a148c,50:311b92,100:0d47a1&height=260&section=header&text=Juan%20Carreño&fontSize=68&fontColor=ffffff&fontAlignY=42&desc=Backend%20Developer%20%7C%20TI%20Support%20Assistant&descSize=20&descAlignY=62" alt="Encabezado Animado de Juan" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d47a1&height=260&section=header&text=JUAN%20CARREÑO&fontSize=70&fontColor=ffffff&desc=Senior%20Backend%20Developer%20%7C%20Network%20Specialist&descSize=20&descAlignY=70" alt="Encabezado de Red de Juan Carreño" />
+</p>
 </p>
 
 # 🚀 ¡Hola! Soy Juan Carreño
