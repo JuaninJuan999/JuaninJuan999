@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d47a1&height=260&section=header&text=JUAN%20CARREÑO&fontSize=70&fontColor=ffffff&desc=Senior%20Backend%20Developer%20%7C%20Network%20Specialist&descSize=20&descAlignY=70" alt="Encabezado de Red de Juan Carreño" />
-</p>
+  <a href="https://github.com/JuaninJuan999">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=220&lines=JUAN+CARRE%C3%91O;Asistente+de+Soporte+de+TI+%7C+L%C3%ADder+de+Área;T%C3%A9cnico+en+Redes+Inal%C3%A1mbricas;Laravel+%2B+AI+Web+Developer" alt="Banner Animado de Juan Carreño" style="background: linear-gradient(135deg, #091e3a 0%, #0f3460 50%, #16213e 100%), url('https://i.gifer.com/76Yp.gif'); background-blend-mode: overlay; background-size: cover; border-radius: 8px; padding: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  </a>
 </p>
 
 # 🚀 ¡Hola! Soy Juan Carreño
