@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:777bb4,100:ff2d20&height=220&section=header&text=Juan%20Carreño&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer&descSize=20&descAlignY=75" />
+</p>
+
 # 🚀 ¡Hola! Soy Juan Carreño
 
 Un apasionado **Técnico en Instalación y Mantenimiento de Redes Inalámbricas** y **Desarrollador Web Backend** enfocado en optimizar procesos mediante la tecnología. Actualmente me desempeño como **Asistente de Soporte de TI**, liderando la asignación de tareas técnicas y el desarrollo de herramientas internas.
