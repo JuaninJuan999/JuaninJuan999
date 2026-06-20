@@ -62,6 +62,5 @@ Me especializo en la creación de soluciones colaborativas de gestión y automat
 ---
 
 <p align="center">
-  <!-- Cierre de onda en movimiento compatible al final -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=100&section=footer" alt="Cierre de perfil" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eab308,100:15803d&height=100&section=footer" alt="Cierre de perfil Amarillo y Verde" />
 </p>
